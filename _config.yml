@@ -1,4 +1,0 @@
-markdown: redcarpet
-exclude: ['README.md']
-plugins:
-  - jekyll-seo-tag
